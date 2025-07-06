@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Salut, moi c'est Adrien Crepel
 
-<!--
-**adriencre/adriencre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant en Master Développement Fullstack  
+💼 Actuellement en alternance chez **LA FAMILLE – finest lunch**  
+🌍 Passionné par le développement web moderne, l'impact social et les projets utiles
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Compétences techniques
+
+JavaScript · TypeScript · React · Next.js  
+HTML · CSS · PHP · Python · Symfony
+
+---
+
+## 🌐 Projets récents
+
+### 🔹 [Social Side](https://www.socialside.co/)
+Site vitrine professionnel pour un cabinet de conseil international en stratégie sociale.  
+Mise en avant de leurs projets avec des entreprises comme **Unilever** ou **Coca-Cola**.
+
+### 🔹 [C'est important / 113.org](https://www.cestimportant.org/)
+Site de l'association dédiée à l'**innovation sociale**.  
+Présentation d'actions concrètes contre la précarité et pour le vivre-ensemble.
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adriencrepel&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriencrepel&layout=compact)
+
+---
+
+## 📫 Me contacter
+
+- ✉️ adriencrepel@icloud.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/adrien-crepel-de-temmerman/)  
+- 🌐 [The-flow.fr](https://the-flow.fr)
+
+---
+
+> “Construire du code utile, sobre et humain.”
+
