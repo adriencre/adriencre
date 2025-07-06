@@ -27,8 +27,8 @@ Présentation d'actions concrètes contre la précarité et pour le vivre-ensemb
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adriencrepel&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriencrepel&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adriencre&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriencre&layout=compact)
 
 ---
 
